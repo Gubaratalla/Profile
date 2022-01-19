@@ -10,10 +10,10 @@
 /* Add some content at the bottom of the video/page */
 .content {
   position: fixed;
-  bottom: 0;
-  
+  bottom: 1;
+  left:5;
   color: #f1f1f1;
-  width: 100%;
+  width: 70%;
   padding: 20px;
 }
 
@@ -23,8 +23,8 @@
   font-size: 18px;
   padding: 10px;
   border: none;
-  background: white;
-  color: #fff;
+  background: rgb(234, 238, 17);
+  color: rgb(143, 7, 70);
   cursor: pointer;
 }
 
