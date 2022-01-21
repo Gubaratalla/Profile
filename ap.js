@@ -12,7 +12,7 @@ pauseBtn.addEventListener('click',function pause() {video.pause();
 p2Btn.addEventListener('click',function other() {
   if(windows.location.href=='index.html')
   {
-  window.location.href = 'index2.html';
+  window.location.href = 'index1.html';
   }
   else 
          window.location.href = 'index.html';
