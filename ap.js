@@ -19,7 +19,7 @@ p1Btn.addEventListener('click',function first() {
  p2Btn.addEventListener('click',function other() {
 //   if(windows.location.href=='index.html')
 //   {
-  window.location.href = "index2.html";
+  window.location.href = "index2.html";}
 //   }
 //   else 
 //          window.location.href = "index.html";
