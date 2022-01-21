@@ -3,11 +3,11 @@ var video = document.getElementById('myVideo');
 
 playBtn.addEventListener('click',function play() {video.play();
 
-});
+})
 
 pauseBtn.addEventListener('click',function pause() {video.pause();
 
-});
+})
 
 
 // p1Btn.addEventListener('click',function first() {
