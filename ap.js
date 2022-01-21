@@ -10,15 +10,15 @@ pauseBtn.addEventListener('click',function pause() {video.pause();
 });
 
 
-p1Btn.addEventListener('click',function first() {
+// p1Btn.addEventListener('click',function first() {
 
-  window.location.href = "index.html";
-});
+//   window.location.href = "index.html";
+// });
 
- p2Btn.addEventListener('click',function other() {
+//  p2Btn.addEventListener('click',function other() {
 
-  window.location.href = "index2.html";
-});
+//   window.location.href = "index2.html";
+// });
 
 
 // video.addEventListener('',function(){ video.play(); });
