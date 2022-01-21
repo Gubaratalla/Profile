@@ -18,7 +18,7 @@
 }
 
 /* Style the button used to pause/play the video */
-#myBtn {
+#playBtn #pauseBtn #p2Btn {
   width: 200px;
   font-size: 18px;
   padding: 10px;
@@ -28,7 +28,7 @@
   cursor: pointer;
 }
 
-#myBtn:hover {
+#myBtn:hover  {
   background: #ddd;
   color: black;
 }
