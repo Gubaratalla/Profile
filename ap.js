@@ -10,8 +10,8 @@ pauseBtn.addEventListener('click',function pause() {video.pause();
 })
 
 function other() {
- location.href = "index2.html";
-
+//  location.href = "index2.html";
+location.replace("index2.html");
 }
 
 // p1Btn.addEventListener('click',function first() {
